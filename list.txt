@@ -518,6 +518,8 @@
 ||oaistatic.com
 ||chatgpt.com
 ||gravatar.com
+||amd.com
+||flaticon.com
 
 #||sstatic.net
 #||freepik.com
@@ -540,4 +542,3 @@
 #||googletagmanager.com
 #||play.google.com
 #||googleusercontent.com
-||amd.com
